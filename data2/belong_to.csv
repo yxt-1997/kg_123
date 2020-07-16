@@ -1,4 +1,4 @@
-﻿:START_ID,:END_ID,:relation,:TYPE
+﻿:START_ID,:END_ID,relation,:TYPE
 0,30005,belong_to,belong_to
 0,30023,belong_to,belong_to
 1,30005,belong_to,belong_to
